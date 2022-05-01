@@ -166,10 +166,10 @@
 
 ## 👀 Some of my public repositories (not forks):
 
-- **[LIFE - Love Is For Everyone (Mobile)](https://github.com/AvidCoder101/AvidCoder101)**
-- **[AR - AntiRetake (Web)](https://github.com/AvidCoder101/BMICalculator)**
-- **[Hotel Management (Web)](https://github.com/AvidCoder101/To-do-list)**
-- **[Retaker888 (Mobile + Web)](https://github.com/AvidCoder101/Harry-Potter-Quiz)**
+- **[AR - AntiRetake (Web)](https://github.com/TriHMDeveloper/AntiRetake)**
+- **[Retaker888 (Mobile + Web)](https://github.com/TriHMDeveloper/Retaker888)**
+- **[LIFE - Love Is For Everyone (Mobile)](https://github.com/TriHMDeveloper/LIFE)**
+- **[Hotel Management (Web)](https://github.com/TriHMDeveloper/HotelManagement)**
  <p>&emsp;<p>
 
 ## 🏆 Certifications!
