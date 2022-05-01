@@ -23,6 +23,8 @@
 - 📫 Responsibility at work is always my priority
 - 💻 My self-study ability is very high
 - 😄 Pronouns: He/His
+<br>
+
 
 
 ## 🤝 Connect with me on:
@@ -160,6 +162,7 @@
     </a>
   &emsp;
 </p>
+&emsp;
 
 ## 👀 Some of my public repositories (not forks):
 
@@ -167,18 +170,18 @@
 - **[AR - AntiRetake (Web)](https://github.com/AvidCoder101/BMICalculator)**
 - **[Hotel Management (Web)](https://github.com/AvidCoder101/To-do-list)**
 - **[Retaker888 (Mobile + Web)](https://github.com/AvidCoder101/Harry-Potter-Quiz)**
-
-
+ <p>&emsp;<p>
 
 ## 🏆 Certifications!
 
 <p align="center">
     <a href="https://coursera.org/share/4c4be04269d396acb6dea0587b742c5a">
-      <img src="certificates/CourseWebDesign.png" width="350px"/>
+      <img src="certifications/CourseWebDesign.png" width="350px"/>
     </a>
    <a href="https://coursera.org/share/d2225a78acdcf7b733286a304478e867">
-      <img src="certificates/CourseProjectManagement.png" width="350px"/>
+      <img src="certifications/CourseProjectManagement.png" width="350px"/>
     </a>
  </p>
+ &emsp;
 
 ### Thank you for visiting my profile 🤓 
