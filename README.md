@@ -164,7 +164,7 @@
 </p>
 &emsp;
 
-## 👀 Some of my public repositories (not forks):
+## 👀 Some of my project with team (not forks):
 
 - **[AR - AntiRetake (Web)](https://github.com/TriHMDeveloper/AntiRetake)**
 - **[Retaker888 (Mobile + Web)](https://github.com/TriHMDeveloper/Retaker888)**
