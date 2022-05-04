@@ -166,9 +166,9 @@
 
 ## 👀 Some of my project with team (not forks):
 
-- **[AR - AntiRetake (Web)](https://github.com/TriHMDeveloper/AntiRetake)**
-- **[Retaker888 (Mobile + Web)](https://github.com/TriHMDeveloper/Retaker888)**
-- **[LIFE - Love Is For Everyone (Mobile)](https://github.com/TriHMDeveloper/LIFE)**
+- **[AR - AntiRetake (Web)](https://gitlab.com/antiretake/anti-retake)**
+- **[Retaker888 (Mobile + Web)](https://github.com/rapperthekyquanpro/github-retake888)**
+- **[LIFE - Love Is For Everyone (Mobile)](https://github.com/Heisenberg5124/Final-Project-PRM391)**
 - **[Hotel Management (Web)](https://github.com/TriHMDeveloper/HotelManagement)**
  <p>&emsp;<p>
 
